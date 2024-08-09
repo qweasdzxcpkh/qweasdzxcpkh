@@ -8,8 +8,6 @@ Skills: REACT / VUE / JS / Python
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=qweasdzxcpkh&show_icons=true&theme=tokyonight)
 
-![Profile views](https://gpvc.arturio.dev/qweasdzxcpkh)  
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/qweasdzxcpkh/qweasdzxcpkh/blob/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/qweasdzxcpkh/qweasdzxcpkh/blob/output/github-contribution-grid-snake.svg" />
